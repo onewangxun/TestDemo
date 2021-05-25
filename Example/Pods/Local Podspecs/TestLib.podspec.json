@@ -1,0 +1,22 @@
+{
+  "name": "TestLib",
+  "version": "0.1.0",
+  "summary": "A short description of TestLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wangxun/TestLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangxun": "309119092@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/wangxun/TestLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TestLib/Classes/**/*"
+}
